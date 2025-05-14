@@ -64,7 +64,7 @@ CREATE TABLE transactions (
 
 4.Run the code: java -cp ".;mysql-connector-java-8.0.33.jar" StockTradingPlatform
 
-🖥️ Sample Console Output:
+## 🖥️ Sample Console Output:
 
 1. View Stocks
 2. Buy Stock
